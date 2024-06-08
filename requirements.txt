@@ -1,4 +1,4 @@
 streamlit
 scikit-learn
 nltk
-
+nltk.download('stopwords')
