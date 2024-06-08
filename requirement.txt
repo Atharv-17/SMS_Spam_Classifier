@@ -1,4 +1,4 @@
 streamlit
-scikit-learn
+sklearn
 nltk
 pickle5
